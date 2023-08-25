@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaInterviewQuestions.iml" filepath="$PROJECT_DIR$/.idea/JavaInterviewQuestions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valueOfStaticMethods/valueOfStaticMethods.iml" filepath="$PROJECT_DIR$/valueOfStaticMethods/valueOfStaticMethods.iml" />
+    </modules>
+  </component>
+</project>
